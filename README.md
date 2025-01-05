@@ -1,5 +1,6 @@
 # Challenges
 <h3>CTF and challenges attempted:</h3>
-<b>CSIT:</b><br>
-- TISC 2024<br>
-- Christmas Mini Challenge 2024 - Open Telemetry & Prompt Engineering
+- CSIT TISC 2024<br>
+- CSIT Christmas Mini Challenge 2024 - Open Telemetry & Prompt Engineering<br>
+- SANS Holiday Hack Challenge 2024<br>
+- TryHackMe Advent of Cyber 2024
