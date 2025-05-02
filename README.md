@@ -1,5 +1,6 @@
 # Challenges
 <h3>CTF and challenges attempted:</h3>
+- DSTA BrainHack 2025<br>
 - CSIT TISC 2024<br>
 - CSIT Christmas Mini Challenge 2024 - Open Telemetry & Prompt Engineering<br>
 - SANS Holiday Hack Challenge 2024<br>
