@@ -1,5 +1,5 @@
-# Challenges
-<h3>CTF and challenges attempted:</h3>
+# CTF and challenges attempted:
+- AWS Skills to Jobs CTF 2026<br>
 - DSTA BrainHack 2025<br>
 - CSIT TISC 2024<br>
 - CSIT Christmas Mini Challenge 2024 - Open Telemetry & Prompt Engineering<br>
